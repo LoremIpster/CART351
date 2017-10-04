@@ -31,3 +31,13 @@ http://boards.4chan.org
 "Without accountability, a community like 4chan is considered a cesspool for some of the vilest content on the internet. You may recall that several of the civilian shooters in recent years were linked to posts on 4chan that outlined their plans and even had attempts at humor."
 
 "[...]4Chan isn’t one homogenous entity. Most of the trouble comes from its /b/ (random) and /pol/ (politically incorrect) boards, but even within these there are dissenting voices and differing opinions. On one thread someone can submerge a toad in vodka before cruelly tying it to balloons and launching it to the skies, while on another users can uncover the personal information of a man abusing cats and report him to the authorities."
+
+### 27/09 Alone together
+
+"We don’t seem to care what these artificial intelligences “know” or “understand” of the human moments we might “share” with them. At the robotic moment, the performance of connection seems connection enough. We are poised to attach to the inanimate without prejudice. The phrase “technological promiscuity” comes to mind."
+
+"We insert robots into every narrative of human frailty. People make too many demands; robot demands would be of a more manageable sort. People disappoint; ro- bots will not. When people talk about relationships with robots, they talk about cheating hus- bands, wives who fake orgasms, and children who take drugs."
+
+"These days, teenagers have sexual adulthood thrust upon them before they are ready to deal with the complexities of rela- tionships. They are drawn to the comfort of connection without the demands of intimacy. This may lead them to a hookup—sex without commitment or even caring."
+
+"They say they used to talk to each other as they waited to give presentations or took taxis to the airport; now they spend that time doing e-mail. Some tell me they are making better use of their “downtime,” but they argue without conviction. The time that they once used to talk as they waited for appointments or drove to the airport was never downtime. It was the time when far-flung global teams solidified relationships and refined ideas."
