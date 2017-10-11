@@ -41,3 +41,25 @@ http://boards.4chan.org
 "These days, teenagers have sexual adulthood thrust upon them before they are ready to deal with the complexities of rela- tionships. They are drawn to the comfort of connection without the demands of intimacy. This may lead them to a hookup—sex without commitment or even caring."
 
 "They say they used to talk to each other as they waited to give presentations or took taxis to the airport; now they spend that time doing e-mail. Some tell me they are making better use of their “downtime,” but they argue without conviction. The time that they once used to talk as they waited for appointments or drove to the airport was never downtime. It was the time when far-flung global teams solidified relationships and refined ideas."
+
+### 11/10 - Assignment 02
+
+For this assignment, I wanted to do something alongside the concept of the message in a bottle. A one-direction communication with no idea of the recipient. We talked a lot about posting and sharing to "the feed" being this intimate safespace in which we could share our intimacy from a safe (and curated) distance.
+
+My piece could be described as a mix of messenger, chatroulette and 4chan. You can send a message the same way you do in messenger, although you can't see who will read it. You will only be notified that _someone_ has read it. On the other hand, you will be assigned messages.
+
+While messenger (and most other direct messaging apps), you always have a good idea of who you're talking to, which is a good source of self-consciousness. If we add anonymity in the mix, then the things we'll want to share will change. Also, knowing that this is a one-way conversation will give nothing to lose for the sender, leading to raw honesty and, most probably, disgusting pulsions.
+
+Being on the receiving end is a big gamble as well. People do know they're gonna stumble upon some sort of phallus in chatroulette; they know they'll have to dig through the shitposting on a 4chan board. But they still use there platforms. Some people, myself included, just love the thrill of curiosity, and digging through completely uncensored parts of people.
+
+### 11/10 - Drawing Dynamic Visualizations (Bret Victor)
+
+http://worrydream.com/#!/DrawingDynamicVisualizationsTalk
+
+"Throughout the history of science, diagrams and graphs have been essential thinking tools. In the past, such visualizations were drawn with pen on paper, and could embrace the directness, freedom, and expressiveness of hand drawing. Most modern visualizations are programmed instead, where a single description can dynamically generate a unique picture for any dataset."
+
+"Much of the effort in designing this tool went into designing a set of drawing actions ("primitive operations") that allows the artist to precisely and unambiguously express intent. The editor is intentionally not magical, and does not "guess" what the artist is intending to do."
+
+"Is this "programming"? Sure. The artist is certainly creating a computer program. (I would deny that it's "coding", however, since the artist is not directly manipulating a symbolic representation, and what else could the word "code" mean? (I've heard people claim that it must be "coding" because code is being "created under the hood". This seems equivalent to the claim that drawing in Illustrator is "coding in PostScript". (It's not.)))"
+
+"More to the point, the artist is indeed required to think procedurally. (But note that the act of drawing, like a procedure, is a step-by-step process.). The artist must also think abstractly (when designing loops and sub-pictures and such). Learning abstraction is no doubt a challenge for anyone, although the tool is designed to help make that challenge approachable. (See Learnable Programming for a dissection of many of the techniques used.)"

@@ -1,0 +1,82 @@
+body {
+    background-image: url("background_clean.png");
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+
+p{
+  font-family: "Helvetica Neue";
+  text-align: center;
+  margin: 0;
+}
+
+img{
+  align-self: center;
+}
+
+img.header{
+  align-self: center;
+}
+
+img.people{
+  align-self: center;
+}
+
+img.dickpic{
+  align-self: center;
+  height: 10%;
+  width: 10%;
+}
+
+img.footnote{
+  align-self: center;
+  height: 10%;
+  width: 10%;
+}
+
+p.sent{
+  font-family: "Helvetica Neue";
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+}
+
+p.received{
+  font-family: "Helvetica Neue";
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+}
+
+a.menu{
+  font-family: "Helvetica Neue";
+  font-style: bold;
+  color: #3B5998
+}
+
+div.outer{
+  position: relative;
+  text-align: center;
+  padding-right: 200px;
+}
+
+div.links{
+  padding-top: 210px;
+  text-align: center;
+}
+
+div.textbox{
+  padding-top: 100px;
+  text-align: center;
+}
+
+div.sent{
+  padding-top: 50px;
+  text-align: center;
+}
+
+div.received{
+  padding-top: 00px;
+  text-align: center;
+
+}
