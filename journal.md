@@ -43,6 +43,13 @@ http://boards.4chan.org
 "They say they used to talk to each other as they waited to give presentations or took taxis to the airport; now they spend that time doing e-mail. Some tell me they are making better use of their “downtime,” but they argue without conviction. The time that they once used to talk as they waited for appointments or drove to the airport was never downtime. It was the time when far-flung global teams solidified relationships and refined ideas."
 
 ### 11/10 - Assignment 02
+Messenger in a Bottle
+
+* subscribe to the new platform on Messenger. Only subscribed participants can send/receive random messages.
+* write down a message as you would in messenger. Once you send it, it will be randomly sent
+* the recipient cannot be in your friendlist
+* you can only send one message at a time. Once it has been seen, you can send another
+* you can also receive one message at a time. Once you see it, you are eligible for another one
 
 For this assignment, I wanted to do something alongside the concept of the message in a bottle. A one-direction communication with no idea of the recipient. We talked a lot about posting and sharing to "the feed" being this intimate safespace in which we could share our intimacy from a safe (and curated) distance.
 
