@@ -70,3 +70,79 @@ http://worrydream.com/#!/DrawingDynamicVisualizationsTalk
 "Is this "programming"? Sure. The artist is certainly creating a computer program. (I would deny that it's "coding", however, since the artist is not directly manipulating a symbolic representation, and what else could the word "code" mean? (I've heard people claim that it must be "coding" because code is being "created under the hood". This seems equivalent to the claim that drawing in Illustrator is "coding in PostScript". (It's not.)))"
 
 "More to the point, the artist is indeed required to think procedurally. (But note that the act of drawing, like a procedure, is a step-by-step process.). The artist must also think abstractly (when designing loops and sub-pictures and such). Learning abstraction is no doubt a challenge for anyone, although the tool is designed to help make that challenge approachable. (See Learnable Programming for a dissection of many of the techniques used.)"
+
+
+### 25/10 - Assignment 03
+Biographical statistics
+
+My website was always in need of a biography, but I never dared to make one. Maybe I'm too self-conscious, or I'm scared of sounding off too pretentious, so I have a very low level of information available about me.
+
+This is the premiss of my idea, I decided to make charts that would say what I could not write. Doing graphs gave me a very interesting distance. They became a creative safe space in which I could tell all the good and horrible shit that happened to me in the last 10 years.
+
+My bio is unfolding through lines. Their movements are the events, with only the legends to give limited context. Their juxtaposition make them each nuance one another. The occlusion of the y-axis numbers give an abstract yet evocative sence to the date; you can't count it, but the mouvement is enough to the narrative. The repetition of the 10-year timeline through the five chart also make the graphs talk to each other.
+
+### 25/10 - Locative game
+
+Zombie Run https://zombiesrungame.com
+
+Zombies, Run! is a 2012 mobile exergame co-developed and published by Six to Start and Naomi Alderman for iOS and Android platforms.
+
+Players act as the character through a series of missions, during which they run and listen to various audio narrations.
+
+"This mechanic threw me for a loop on my first run. For a bit of context, I am not a runner. I enjoy a good walk pretty regularly, but running is not my thing. Thankfully, this app follows your pace. If you want to run, run. If you want to walk, walk. Whatever suits your physical needs. The very first cut scene ends with a radio operator telling you, rather emphatically, to "RUN!" Being a good little survivor, I obeyed, upping my pace from a steady walk to more of a jog. After about a minute, I hear a warning that there are zombies 100 meters away. I wasn't sure if I should run faster, slow down, change direction, or how to react. The user is given no indication at this point what to do. Since I'd already been told by my radio operator to run, I slowed down, assuming the warning meant there were zombies ahead. The zombies caught me."
+
+### 25 / 10 - Assignment 04
+
+Undercovers is a game about hunting and being hunted.
+
+_MECHANICS_
+When you opt-in to the game, you only need to choose a pseudonym. You then get your first contract : "kill" someone without getting caught.
+
+The only information you have is that other person's pseudonym and the direction of that person.
+
+When the target and prey get close enough (i.e. on the same floor), the two phone will start vibrating. Like a sonar, the vibration will get more insistant as they get closer.
+
+**HUNTER SCREEN**
+
+
+If you are hunting your target, your screen shows you an arrow poiting you to your target, alongside the distance between you two.
+
+As you get closer, the arrow will fade out, leaving you only with the distance between you and your target.
+
+**HUNTED SCREEN**
+![asdf](img/defenderscreen.png)
+
+While you are hunting, you phone might vibrate to tell you that your killer is in the vicinity. Your only way of defending yourself is to use your camera to scan the surroundings. If the killer's phone get in the screen, a white sonar beep will come out if it, revealing the identity of the killer.
+
+_DYNAMIC_
+In practice, the goal of the game is to make the players act like undercover agents.
+
+Because the two phones vibrate when they get close, the hunter will
+
+The game really unfolds in public spaces. Because you can attack your target alone, you need to blend in the crowd.
+
+On the flip side, putting yourself in the crowd also means you're putting yourself in danger, because you are also someone else's target.
+
+_AESTHETICS_
+
+
+_OTHER RULES_
+* you can only play this game inside the EV building
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
