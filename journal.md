@@ -9,6 +9,20 @@ _27/09_
 
   Remaking the piece turned out to be a bigger challenge that I thought since most of the functions she uses for the piece are now deprecated in HTML5. I especially had to come up with new ways to use subdividing windows, which led me to compromises: it is no longer possible to resize windows like in the original scene, but on the bright side, the "unresizable" frame progression enabled a new idea: a deconstructed image will slowly show up as the experience comes to an end.
 
+  **PROCESS**
+  Since the main goal was to recapture the way she narrated her story, I concentrated my efforts on a build-up that would slowly reveal my version.
+
+  As shown in the image below, I did many iterations on the interesting ways the screen could be divided. It was actually hard to make it as asymetric as possible.
+
+  Since Olia's writing felt a like a stream of consciousness, I didn't wanted to think too much about what I would write.
+
+  I decided to give myself only one session of writing. I sat down, and wrote everything that came through my head (you can see the result in the document "draft.md"). The day after, I simply moved stuff around and looked for ways to integrate it in the framework.
+
+  For the image, I almost literally looked at the top of the pile. I took random stuff I took recently, modified them, and turned them into the game (see images BEFORE / AFTER)
+
+  ![asdf](img/a01.png)
+
+
 ### 27/09 - Jon Rafman
 
 Dream Journal is the new exposition made by Jon Rafman, a Canadian multimedia artist from Montreal. Jon Rafman is known for bringing forward mysteries from the deep web. Dream Journal gives us an image of the internet that goes past the memes and other kitch social media aesthetics. It rather shows us the violent, disturbing, erotic, perverse and sometimes beautiful parts of it.
@@ -80,6 +94,18 @@ My website was always in need of a biography, but I never dared to make one. May
 This is the premiss of my idea, I decided to make charts that would say what I could not write. Doing graphs gave me a very interesting distance. They became a creative safe space in which I could tell all the good and horrible shit that happened to me in the last 10 years.
 
 My bio is unfolding through lines. Their movements are the events, with only the legends to give limited context. Their juxtaposition make them each nuance one another. The occlusion of the y-axis numbers give an abstract yet evocative sence to the date; you can't count it, but the mouvement is enough to the narrative. The repetition of the 10-year timeline through the five chart also make the graphs talk to each other.
+
+**PROCESS**
+The process was twofold in this assignment.
+
+A good chunk of the time I devoted for this was to actually learn javascript. I had never touched the language before, so I had to learn the basics first. I have the book "Javascript & JQuery - interactive front-end web development". I did the first 150 pages.
+
+Then, when I felt better about the language, I started sketching. in the picture below, my sketches are mostly exploring shapes, and how the curves could tell something just by looking at then (and not the numbers). I wanted abstract graphs, so the measured subjects had to be abstract as well. I noted down a lot of things that could not be measures by myself, like my stress, or being in love.
+
+I then joinded the shapes to the values, and used a JS library to express them. The rest of the time was playing with the values so that The curves would look abstract but not too complex in their shape.
+
+![asdf](img/a03.png)
+![asdf](img/a03b.png)
 
 ### 25/10 - Locative game
 
