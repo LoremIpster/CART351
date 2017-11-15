@@ -89,6 +89,9 @@ http://worrydream.com/#!/DrawingDynamicVisualizationsTalk
 ### 25/10 - Assignment 03
 Biographical statistics
 
+The graphs are at the bottom of my "info" page http://saboudreault.ca/info.html
+(NOTE - use chrome or firefox)
+
 My website was always in need of a biography, but I never dared to make one. Maybe I'm too self-conscious, or I'm scared of sounding off too pretentious, so I have a very low level of information available about me.
 
 This is the premiss of my idea, I decided to make charts that would say what I could not write. Doing graphs gave me a very interesting distance. They became a creative safe space in which I could tell all the good and horrible shit that happened to me in the last 10 years.
